@@ -1,3 +1,2 @@
 # ALX_Course-
-'m a fresh  ALX Student and this is my first repository 
-I love 🎱 ☕
+I'm now a ALX Student, this is my first repository as a full-stack engineer
